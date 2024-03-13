@@ -1,5 +1,5 @@
 <img src="JQHatY.jpg"/>
-<h1>What's JQHatY?</h1>h1>
+<h1>What's JQHatY?</h1>
 I made JQHatY for Connected<a href="http:/jqh.loxblog.com"> JQH Programming language</a> To Y Programming language or Connect Y to JQH.
 <h1>How Work?</h1>
 I (Poyamo or poya) Made JQH and Y programming language. this 2 programming language Compiler connected by JS and java and a very other Programming language. by you connect library at your Y file, using code at JQHatY.conncet.y file at up.
